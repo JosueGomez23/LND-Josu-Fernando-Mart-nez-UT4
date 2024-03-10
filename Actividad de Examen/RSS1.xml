@@ -1,21 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ofertas de la Semana</title>
-    <link>URL_DE_TU_SITIO/ofertas</link>
+    <title>Ofertas de las Apple Vision Pro</title>
+    <link>https://www.apple.com/apple-vision-pro/</link>
     <description>Las mejores ofertas de la semana</description>
-    <atom:link href="URL_DE_TU_SITIO/ofertas.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Oferta 1</title>
-      <description>Descripción de la oferta 1.</description>
-      <pubDate>Fecha de publicación de la oferta 1</pubDate>
-      <category>Categoría 1</category>
-      <category>Categoría 2</category>
-      <enclosure url="URL_DE_LA_IMAGEN_1" type="image/jpeg" />
+      <title>Las Apple Vision Pro ya se pueden comprar en España, pero al triple de su precio original</title>
+      <description>Hace unos meses, con motivo de la entrega de la primera remesa de camionetas Cybertruck, Tesla incluyó una polémica cláusula en el contrato de compra que prohibía la reventa del vehículo, aunque finalmente se echó atrás. La razón era simple: ante las expectativas generadas por el modelo y el bajo número de unidades disponibles, existía el riesgo de que se crease un mercado independiente a la compañía mediante el que los compradores tratasen de obtener importantes ganancias por su inversión. Pues bien, Apple puede estar enfrentándose a la misma situación.</description>
+      <pubDate>15 enero 2023</pubDate>
+      <category>El precio de lanzamiento de las Apple Vision Pro también fue confirmado y se situó en los 3.499 dólares, si bien es cierto que puede ser superior si se añade más memoria de almacenamiento o lentes graduadas, que son imprescindibles para las personas con miopía o cualquier otro problema de visión. Además, aunque no sea posible conseguirlas aún, la tienda online de la compañía lleva algunos días permitiendo reservar este producto. Así, los usuarios pueden asegurarse de que las reciben el mismo viernes 2 de febrero.</category>
+      <category>Más de 2.000 personas que han hecho su reserva online las han puesto a la venta a través de eBay. Todos ellos se dirigen a interesados que residen fuera de los Estados Unidos</category>
+      <enclosure url="https://images.ecestaticos.com/oaqBjFCPMKGhFN7bEM-P6fUovNw=/11x82:1689x1341/996x747/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F2f2%2F2a5%2F191%2F2f22a5191881859708b1004ef7523fc6.jpg" type="image/jpg" />
     </item>
 
-    <!-- Agrega al menos dos elementos más de ofertas aquí -->
+    <item>
+      <title>¿Cuál es el precio de las nuevas gafas de Apple Vision Pro?</title>
+      <description>Este es el precio de las nuevas gafas.</description>
+      <pubDate>23 Marzo 2023</pubDate>
+      <category>Las Apple Vision Pro son unas gafas de realidad mixta que se controlan por los ojos, las manos y la voz. Incluyen el sistema operativo visionOS, incorpora un diseño modular con diferentes tallas, ofrece una interfaz de usuario tridimensional y cuenta con una buena privacidad gracias Optic ID.</category>
+        <category>
+            Las Vision Pro tendrán accesorios adicionales para personalizar más la experiencia.Las Vision Pro tendrán accesorios adicionales para personalizar más la experiencia.Apple
+            Apple presentó sus gafas de realidad mixta Vision Pro en la Conferencia Mundial de Desarrolladores (WWDC, por sus siglas en inglés) en junio del año pasado. En su momento, la compañía de Cupertino no anunció una fecha exacta de lanzamiento, solo adelantó que sería este año y, hasta mediados de enero, no se supo que habilitarían la preventa el día 19 y que el 2 de febrero se realizarán los primeros envíos.
+        </category>
+      <enclosure url="https://imagenes.20minutos.es/files/image_640_360/files/fp/uploads/imagenes/2023/07/11/apple-vision-pro.r_d.495-275.jpeg" type="image/jpeg" />
+    </item>
 
+    <item>
+      <title>Cuándo llega el Apple Vision Pro a España y cómo lo han conseguido los españoles que ya lo tienen</title>
+      <description>Aqui veras cuando entran a España.</description>
+      <pubDate>11 Noviembre 2023</pubDate>
+      <category>La fecha de salida del Vision Pro en España es una incógnita, pero ya hay pistas que señalan cuándo esperarlo</category>
+      <category>Algunos usuarios ya han conseguido un Vision Pro viviendo en España, pero es más complicado de lo que parece</category>
+      <enclosure url="https://i.blogs.es/bf61fe/vision-pro-2/840_840.webp" type="image/jpg" />
+    </item>
   </channel>
 </rss>
