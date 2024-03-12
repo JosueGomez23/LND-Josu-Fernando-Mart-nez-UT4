@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0">
   <channel>
     <title>Últimas Noticias Destacadas</title>
     <link>https://www.apple.com/la/newsroom/archive/apple-vision-pro/</link>
@@ -8,58 +8,34 @@
     <item>
       <title>Apple incorpora la posibilidad de grabar video espacial en el iPhone 15 Pro</title>
         <description>
-            Gracias a iOS 17.2, los usuarios del iPhone 15 Pro y el iPhone 15 Pro Max ahora pueden grabar videos espaciales, 
-            una funcionalidad revolucionaria que los ayuda a capturar los momentos más preciados de sus vidas, y, a principios 
-            del año próximo, podrán revivirlos en el Apple Vision Pro.
-            "El iPhone 15 Pro y el iPhone 15 Pro Max vienen con los sistemas de cámara más potentes que hemos desarrollado, además de 
-            la mejor calidad de video en un smartphone", afirmó Greg Joswiak, vicepresidente sénior de Worldwide Marketing de Apple. 
-            "Y ahora estamos estableciendo un nuevo estándar de lo que es posible, permitiendo a los usuarios grabar sus momentos más 
-            especiales tal como sucedieron. Los videos espaciales son mágicos, y nos entusiasma que los usuarios puedan disfrutarlos en 
-            el Apple Vision Pro a principios del próximo año".
+          <![CDATA[<img src="https://www.apple.com/newsroom/images/2023/12/apple-introduces-spatial-video-capture-on-iphone-15-pro/article/Apple-iPhone-15-Pro-spatial-video-capture-hero_big.jpg.medium.jpg"/> <br>]]>
+          Gracias a iOS 17.2, los usuarios del iPhone 15 Pro y el iPhone 15 Pro Max ahora pueden grabar videos espaciales, 
+          una funcionalidad revolucionaria que los ayuda a capturar los momentos más preciados de sus vidas, y, a principios 
+          del año próximo, podrán revivirlos en el Apple Vision Pro.
         </description>
-      <pubDate>11 Diciembre 2023</pubDate>
       <category>Nuevas posibilidades de las apple vison pro</category>
-      <enclosure url="https://www.apple.com/newsroom/images/2023/12/apple-introduces-spatial-video-capture-on-iphone-15-pro/article/Apple-iPhone-15-Pro-spatial-video-capture-hero_big.jpg.medium.jpg" type="image/jpg" />
     </item>
 
     <item>
       <title>Ya están disponibles las herramientas de desarrollo destinadas a crear experiencias espaciales para Apple Vision Pro</title>
         <description>
-            El próximo mes, Apple abrirá laboratorios de desarrollo en Cupertino, Londres, Múnich, Shanghái, Singapur y Tokio que brindarán experiencia práctica a los desarrolladores para probar 
-            sus apps en el hardware de Apple Vision Pro y obtener soporte de los ingenieros de Apple. Los equipos también podrán solicitar kits de desarrollo para ayudarlos a crear, iterar y probar 
-            rápidamente en Apple Vision Pro.
-            “Apple Vision Pro redefine lo que es posible en una plataforma de computación. Los desarrolladores pueden comenzar a crear apps de visionOS con los poderosos 
-            entornos de desarrollo que ya conocen y llevar sus códigos un paso más allá con novedosas herramientas y tecnologías innovadoras como Reality Composer Pro, 
-            y así diseñar nuevas experiencias para los usuarios", expresó Susan Prescott, vicepresidenta de Worldwide Developer Relations de Apple. "Al aprovechar el 
-            espacio que rodea al usuario, la computación espacial ofrece nuevas oportunidades a nuestros desarrolladores y les permite imaginar nuevas formas de 
-            ayudar a sus usuarios a conectarse, mejorar su productividad y disfrutar nuevos tipos de entretenimiento. Estamos ansiosos por ver las creaciones de 
-            nuestra comunidad de desarrolladores".
+          <![CDATA[<img src="https://www.apple.com/newsroom/images/2023/06/developers-begin-creating-spatial-computing-experiences-for-apple-vision-pro/article/Apple-Vision-Pro-SDK-availability-developer-lifestyle_big.jpg.medium.jpg"/> <br>]]>
+          El próximo mes, Apple abrirá laboratorios de desarrollo en Cupertino, Londres, Múnich, Shanghái, Singapur y Tokio que brindarán experiencia práctica a los desarrolladores para probar 
+          sus apps en el hardware de Apple Vision Pro y obtener soporte de los ingenieros de Apple. Los equipos también podrán solicitar kits de desarrollo para ayudarlos a crear, iterar y probar 
+          rápidamente en Apple Vision Pro.
         </description>
-      <pubDate>21 Junio 2023</pubDate>
       <category>todas las herranientas necesarias de las apple vision pro</category>
-      <enclosure url="https://www.apple.com/newsroom/images/2023/06/developers-begin-creating-spatial-computing-experiences-for-apple-vision-pro/article/Apple-Vision-Pro-SDK-availability-developer-lifestyle_big.jpg.medium.jpg" type="image/jpg" />
     </item>
 
     <item>
       <title>Presentamos Apple Vision Pro: la primera computadora espacial de Apple</title>
         <description>
-              <![CDATA[<img src="https://www.apple.com/newsroom/images/media/introducing-apple-vision-pro/Apple-WWDC23-Vision-Pro-glass-230605_big.jpg.medium.jpg"/>]]>
+            <![CDATA[<img src="https://www.apple.com/newsroom/images/media/introducing-apple-vision-pro/Apple-WWDC23-Vision-Pro-glass-230605_big.jpg.medium.j"/> <br>]]>            
             CUPERTINO, CALIFORNIA Apple presentó hoy Apple Vision Pro, una revolucionaria computadora 
             espacial que fusiona el contenido digital con el mundo físico a la perfección y permite a 
-            los usuarios mantenerse presentes y en contacto con otras personas. Vision Pro crea un 
-            lienzo infinito que atraviesa las fronteras de una pantalla tradicional y presenta una interfaz 
-            completamente tridimensional operada por los controles más naturales e intuitivos que existen: 
-            los ojos, las manos y la voz de los usuarios. Gracias a la incorporación de visionOS, el primer 
-            sistema operativo espacial del mundo, Vision Pro permite a los usuarios interactuar con el contenido 
-            digital como si estuviera físicamente presente en su mismo espacio. El diseño innovador de Vision Pro 
-            tiene un sistema de ultra alta definición con 23 millones de píxeles distribuidos en dos pantallas. Además, 
-            incluye dos chips de Apple especialmente creados para garantizar que cada experiencia parezca estar desarrollándose 
-            frente a los ojos del usuario en tiempo real.
+            los usuarios mantenerse presentes y en contacto con otras personas.
         </description>
-      <pubDate>05 Junio 2023</pubDate>
       <category>Las apple vision pro son las nuevas computadores del futuro.</category>
-      <enclosure url="https://www.apple.com/newsroom/images/media/introducing-apple-vision-pro/Apple-WWDC23-Vision-Pro-glass-230605_big.jpg.medium.jpg" type="image/jpg" />
     </item>
-
   </channel>
 </rss>
